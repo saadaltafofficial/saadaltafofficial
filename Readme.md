@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <p>
+  <p style="margin-top: 0;">
     I've been enjoying development for the first time ever since I built my first project.
   </p>
   
