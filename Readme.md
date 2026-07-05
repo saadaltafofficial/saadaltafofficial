@@ -2,10 +2,10 @@
   <em>If it is not hard, it is not worth your time.</em>
 </p>
 
-## 🛠️ Core Tech Stack
+## Tech Stack
 
 <details open>
-<summary><b>💻 Languages & Frameworks</b></summary>
+<summary><b>Languages & Frameworks</b></summary>
 <br />
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-<summary><b>⚙️ DevOps, Cloud & CI/CD</b></summary>
+<summary><b>DevOps, Cloud & CI/CD</b></summary>
 <br />
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><b>🌐 Web3 & Blockchain</b></summary>
+<summary><b>Web3 & Blockchain</b></summary>
 <br />
 
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3dotjs&logoColor=white)
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-<summary><b>🗄️ Databases & Backend Tools</b></summary>
+<summary><b>Databases & Backend Tools</b></summary>
 <br />
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary><b>🤖 AI & Automation</b></summary>
+<summary><b>AI & Automation</b></summary>
 <br />
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary><b>🛡️ Systems, Security & Monitoring</b></summary>
+<summary><b>Systems, Security & Monitoring</b></summary>
 <br />
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary><b>🛠️ Tools & Design</b></summary>
+<summary><b>Tools & Design</b></summary>
 <br />
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
