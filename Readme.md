@@ -1,13 +1,15 @@
 <p align="left">
   <em>If it is not hard, it is not worth your time.</em>
 </p>
-
+<!--
 ## Tech Stack
-
+-->
+<!--
 <details open>
 <summary><b>Languages & Frameworks</b></summary>
 <br />
-
+-->
+<!--
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,7 +19,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 </details>
+-->
 
+<!--
 <details>
 <summary><b>DevOps, Cloud & CI/CD</b></summary>
 <br />
@@ -89,3 +93,4 @@
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat&logo=openssh&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 </details>
+-->
